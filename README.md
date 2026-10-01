@@ -182,8 +182,8 @@ Preview Source File
 ## Author
 
 **Ashok Sathyanarayan**  
-Microsoft Dynamics AX / Dynamics 365 Finance & Operations Technical Consultant
+Microsoft Dynamics AX / Dynamics 365 F&O Techno-functional Solution Architect
 
 ## About the Author
 
-Experienced ERP consultant specializing in Microsoft Dynamics AX 2012 and Dynamics 365 Finance & Operations, with expertise in troubleshooting, performance optimization, integrations, data migration, and production support.
+Experienced ERP consultant specializing in Microsoft Dynamics AX 2012 and Dynamics 365 Finance & Operations, with expertise in Implementing, troubleshooting, performance optimization, integrations, data migration, and production support.
