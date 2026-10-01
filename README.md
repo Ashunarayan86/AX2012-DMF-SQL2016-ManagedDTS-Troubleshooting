@@ -179,3 +179,11 @@ Data Import Export Framework
 Microsoft.SqlServer.ManagedDTS
 
 Preview Source File
+## Author
+
+**Ashok Sathyanarayan**  
+Microsoft Dynamics AX / Dynamics 365 Finance & Operations Technical Consultant
+
+## About the Author
+
+Experienced ERP consultant specializing in Microsoft Dynamics AX 2012 and Dynamics 365 Finance & Operations, with expertise in troubleshooting, performance optimization, integrations, data migration, and production support.
